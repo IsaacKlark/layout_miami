@@ -1,0 +1,17 @@
+.section {
+  padding: 100px calc(50% - 470px);
+  position: relative;
+  background-color: white; }
+  .section:nth-child(even) {
+    background-color: #eee; }
+  .section__heading {
+    left: 0;
+    right: 0;
+    top: -0.5em;
+    margin: auto; }
+
+@media (max-width: 1000px) {
+  .section {
+    padding: 40px 50px; } }
+
+/*# sourceMappingURL=section.css.map */

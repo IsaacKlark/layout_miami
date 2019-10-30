@@ -1,0 +1,9 @@
+.link {
+  color: #00aaef;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s; }
+  .link:hover {
+    color: #2f80ed; }
+
+/*# sourceMappingURL=link.css.map */
