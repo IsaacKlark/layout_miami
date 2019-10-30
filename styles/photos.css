@@ -16,9 +16,9 @@
     width: calc(67% - 10px); }
   .photos__wide-left .photos__img:last-child {
     width: calc(33% - 10px); }
-  .photos__wide-right .photos__img:first-child {
+  .photos .photos__wide-right .photos__img:first-child {
     width: calc(33% - 10px); }
-  .photos__wide-right .photos__img:last-child {
+  .photos .photos__wide-right .photos__img:last-child {
     width: calc(67% - 10px); }
 
 /*# sourceMappingURL=photos.css.map */

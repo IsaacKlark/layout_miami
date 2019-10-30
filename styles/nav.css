@@ -11,7 +11,7 @@
     list-style: none; }
   .nav__item {
     padding: 7px 20px;
-    margin: 0 22.5px; }
+    margin-left: 45px; }
     .nav__item--active {
       background-color: #d5c5aa;
       border-radius: 10px; }
