@@ -81,6 +81,9 @@ a {
 address {
   font-style: normal; }
 
+p {
+  line-height: 1.5; }
+
 .nav {
   color: black;
   text-transform: uppercase; }
@@ -258,10 +261,6 @@ address {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between; }
-  .consultation__pararaphg {
-    line-height: 1.5;
-    width: 480px;
-    height: 120px; }
   .consultation__text {
     width: 480px; }
   .consultation__heading {
