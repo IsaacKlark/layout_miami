@@ -19,7 +19,7 @@ h6 {
   outline: 0; }
 
 body {
-  line-height: 1.5; }
+  line-height: 1; }
 
 strong {
   font-weight: 500; }
@@ -32,6 +32,6 @@ address {
   font-style: normal; }
 
 p {
-  line-height: 1; }
+  line-height: 1.5; }
 
 /*# sourceMappingURL=reset.css.map */
