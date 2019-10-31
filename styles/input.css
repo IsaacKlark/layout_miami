@@ -7,7 +7,8 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   background-color: #eee;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  border: 0; }
   .input::-webkit-input-placeholder {
     color: inherit; }
   .input::-moz-placeholder {
